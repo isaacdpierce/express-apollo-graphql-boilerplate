@@ -14,7 +14,7 @@
   "author": "Isaac Pierce",
   "license": "ISC",
   "dependencies": {
-    "apollo-server": "^2.6.3",
+    "apollo-server": "^2.14.2",
     "apollo-server-express": "^2.6.3",
     "cors": "^2.8.5",
     "dotenv": "^8.0.0",
