@@ -29,7 +29,7 @@
     "@babel/node": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
     "chai": "^4.2.0",
-    "mocha": "^6.1.4",
+    "mocha": "^10.2.0",
     "nodemon": "^1.19.0",
     "supertest": "^4.0.2"
   }
